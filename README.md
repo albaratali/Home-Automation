@@ -7,5 +7,6 @@ Project Video Link: https://drive.google.com/file/d/1NOoGthNafiJQObvW-Va3VS4rWAN
 3. Switch
 4. lamb
 5. Wire and wiring channels
-6. Mobile for Blynk IoT Software
-7. Arduino IDE Software etc.
+6. WIFI
+7. Mobile for Blynk IoT Software
+8. Arduino IDE Software etc.
